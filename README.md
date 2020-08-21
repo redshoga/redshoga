@@ -8,13 +8,11 @@
 - 📖 Blog Posts(Qiita) https://qiita.com/redshoga
 - 🐣 Twitter https://twitter.com/redshoga
 
-## 🍕 GitHub Stats
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshoga&theme=vue&layout=compact" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=redshoga&theme=vue" align="left" />
-</div>
-
-## 📷 A picture of myself at work
+### 📷 A picture of myself at work
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200px">
+
+### 🍕 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshoga&theme=vue&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=redshoga&theme=vue" align="left" />
