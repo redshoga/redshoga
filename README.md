@@ -1,12 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Qiita Posts](https://qiita-badge.apiapi.app/s/redshoga/posts.svg)](http://qiita.com/redshoga)
-[![Qiita Contributions](https://qiita-badge.apiapi.app/s/redshoga/contributions.svg)](http://qiita.com/redshoga)
-[![Qiita Followers](https://qiita-badge.apiapi.app/s/redshoga/followers.svg)](http://qiita.com/redshoga)
-
-- 😁 Portfolio https://redshoga.com
-- 📖 Blog Posts(Qiita) https://qiita.com/redshoga
-- 🐣 Twitter https://twitter.com/redshoga
+- Portfolio 👉 https://redshoga.com
 
 ### 📷 A picture of myself at work
 
