@@ -2,8 +2,6 @@
 
 ### 😺 Portfolio 
 
-https://redshoga.com
-
 ### 📷 A picture of myself at work
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200px">
